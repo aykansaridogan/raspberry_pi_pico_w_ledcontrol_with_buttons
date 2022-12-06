@@ -20,3 +20,5 @@ Circuit diagram: ![devre](https://user-images.githubusercontent.com/105684427/20
 
 IFTTT notifications: ![deneme_iftt](https://user-images.githubusercontent.com/105684427/205889903-0700c855-6051-43bf-8b81-6a050df450c2.jpg)
 
+Preview:  https://user-images.githubusercontent.com/105684427/205890559-ff134fe5-ecce-4de2-a4f4-98953da1723d.mp4
+
